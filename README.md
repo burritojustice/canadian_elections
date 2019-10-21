@@ -1,4 +1,4 @@
-# canadian_elections
+# 2015 Canadian Federal Election results by riding, via Albers
 
 Albers ftw, via tangram.js shaders
 
@@ -7,3 +7,7 @@ Albers ftw, via tangram.js shaders
 ![British Columbia](bc_albers.png)
 
 ![Ontario](ontario_albers.png)
+
+![NL](newfoundland_labrador_albers.png)
+
+![Canada GIF](canada_albers.gif)
